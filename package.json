@@ -1,5 +1,9 @@
-﻿{
+{
   "name": "musikviz",
   "version": "1.0.0",
-  "main": "index.html"
+  "description": "Musikvisualisierung für Tizen TV",
+  "main": "index.html",
+  "tizen": {
+    "appId": "heimviz010.musikviz"
+  }
 }
