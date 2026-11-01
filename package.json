@@ -1,9 +1,9 @@
 {
   "name": "musikviz",
   "version": "1.0.0",
-  "description": "Musikvisualisierung für Tizen TV",
-  "main": "index.html",
-  "tizen": {
-    "appId": "heimviz010.musikviz"
-  }
+  "packageType": "app",
+  "appName": "Musikviz",
+  "appPath": "index.html",
+  "keys": [],
+  "evaluateScriptOnDocumentStart": false
 }
